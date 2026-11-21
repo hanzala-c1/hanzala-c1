@@ -1,7 +1,7 @@
 # Hi, I'm Hanzala
 
-I build Python automation scripts and AI-powered bots for small businesses —
-from offline AI tools to WhatsApp/chat bots using Botpress and LLM APIs.
+I build Websites and automation scripts and AI-powered bots for small businesses —
+from AI tools to WhatsApp/chat bots using Botpress and LLM APIs.
 
 🔭 Currently learning: Python (FastAPI, automation), AI agent development
 🌱 Building: AI chatbots and business automation tools
@@ -13,4 +13,4 @@ from offline AI tools to WhatsApp/chat bots using Botpress and LLM APIs.
 - **[Smart GPA](https://github.com/hanzala-c1/Smart-GPA)** — Android GPA/CGPA calculator supporting multiple university grading systems and custom grade scales
 
 ## Tech Stack
-Python · Java · AI/ML models · Botpress · Git
+Python · Javascript · Java · AI/ML models · Botpress · Git
